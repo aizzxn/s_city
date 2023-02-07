@@ -1,0 +1,8 @@
+{
+  "name": "s_city",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aizzxn/s_city.git",
+  "author": "victorglim <victor.guedes888@gmail.com>",
+  "license": "MIT"
+}
